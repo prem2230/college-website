@@ -1,2 +1,2 @@
 # college-website
-First web development of college using HTML, CSS,JS
+First web development of college website using HTML, CSS,JS
